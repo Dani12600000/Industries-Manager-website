@@ -1,2 +1,2 @@
 # Industries-Manager-website
-The repository my Industries Manager application website
+The repository for my Industries Manager application website
