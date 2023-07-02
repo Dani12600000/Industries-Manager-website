@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 17vh;
+    margin-right: 53vh;
+    margin-left: 53vh;
+    width: 600px;
+    text-align: center;
+}
+
+h1 {
+    color: yellow;
+    font-size: 28px;
+}
+
+p {
+    color: yellow;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+img {
+    float: right;
+    margin-left: 20px;
+    max-width: 300px;
+}
+
+a {
+    color: yellow;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
